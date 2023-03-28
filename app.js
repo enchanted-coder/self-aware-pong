@@ -8,7 +8,7 @@ const ball = {
   speed: 5,
   dx: 5,
   dy: 5,
-};
+}
 
 const leftPaddle = {
   x: 0,
@@ -24,7 +24,7 @@ const rightPaddle = {
   y: canvas.height / 2 - 50,
   width: 10,
   height: 100,
-  speed: 5,
+  speed: 50,
   dy: 0,
 }
 
